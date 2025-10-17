@@ -1,5 +1,4 @@
 {
   "/page": "app/page.js",
-  "/gpts-dashboard/page": "app/gpts-dashboard/page.js",
   "/admin/page": "app/admin/page.js"
 }
